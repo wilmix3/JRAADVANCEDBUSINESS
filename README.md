@@ -12,7 +12,11 @@ JRA  is  used  for   Protecting   all   WRIT  Technologies  in   SIT  and  WRIT 
 from  competitors.
 
 
-============================================
+
+
+Formulae
+==========
+
 1  JRA  =  Infinitive  power  Infinitive
 
-===============================================
+
