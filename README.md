@@ -1,7 +1,7 @@
 # JRAADVANCEDBUSINESS
 =======================
 
-JRA  is used  for  overtaking    the  competitors. Since  Programming Languagae   is  not used  for
+JRA  is used  for  overtaking    the  competitors. Since  Programming Language   is  not used  for
 
 competitive  purpose.Programming Language  is  used  for  professional/Organizational/company purpose.
 
